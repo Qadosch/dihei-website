@@ -91,7 +91,7 @@ header .logo {
         content: ""
     }
     header li.selected {
-        box-shadow: 0px 1px 0px 0px rgba(127, 28, 52, 1);
+        box-shadow: 0px 1px 0px 0px #233162;
     }
 
     header ul {
@@ -130,7 +130,7 @@ img{
 
 footer {
     padding-top: 5rem;
-    background-color: #7f1c34;
+    background-color: #233162;
     color: white;
     flex-shrink: 0;
 }
